@@ -114,11 +114,11 @@ function ContactForm() {
             >
               {
                 isLoading ?
-                <span>Sending Message...</span>:
-                <span className="flex items-center gap-1">
-                  Send Message
-                  <TbMailForward size={20} />
-                </span>
+                  <span>Sending Message...</span> :
+                  <span className="flex items-center gap-1">
+                    Send Message
+                    <TbMailForward size={20} />
+                  </span>
               }
             </button>
           </div>
