@@ -36,11 +36,16 @@ app/
 ├─ api/
 ---
 │ └─ contact/
+---
 │ └─ route.js
+---
 ├─ components/
+---
 │ └─ homepage/
+---
 ├─ page.js
 utils/
+---
 └─ data/
 public/
 
