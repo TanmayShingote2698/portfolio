@@ -7,7 +7,7 @@ It showcases projects, skills, experience, and includes a **working contact form
 
 ## 🖥️ Live Demo
 - **Website:** https://your-vercel-url.vercel.app  
-- **Repository:** https://github.com/your-username/your-repo-name  
+- **Repository:** https://github.com/TanmayShingote2698/ 
 
 ---
 
