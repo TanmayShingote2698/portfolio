@@ -32,7 +32,9 @@ It showcases projects, skills, experience, and includes a **working contact form
 
 ---
 app/
+---
 ├─ api/
+---
 │ └─ contact/
 │ └─ route.js
 ├─ components/
